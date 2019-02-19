@@ -1,10 +1,5 @@
 #IR Assignment 1
 
-#Name: Harsh Jain
-#UIN: 670665164
-#ID: hjain20@uic.edu
-
-
 #Approach used:
 - Read the input files line by line.
 - Pre-processing each line by removing punctuations, digits and case sensitivity
